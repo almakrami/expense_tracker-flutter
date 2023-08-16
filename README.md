@@ -1,6 +1,6 @@
 # expense_tracker
 
-This project is an App that  will let you track your expenses by adding your expenses for each day with suitble categories to select from, also in this app we added .
+This project is an App that  will let you track your expenses by adding your expenses for each day with suitble categories to select from, also in this app we added.
 
 ## Getting Started
 
